@@ -15,7 +15,7 @@ import {
 export default class AwesomeProject extends Component {
   render() {
     return (
-      <View style={styles.container}>
+      <View style={styles.container} refreshing>
         <Text style={styles.welcome}>
           Welcome to React Native!
         </Text>
