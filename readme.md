@@ -1,7 +1,9 @@
 ## Cours React-Native
 
 #Consigne exercices :
- * Exercice 1 :
+ * Exercice 1 : Animation
+  Créer deux vues prenant chacune la moitié d el'écran en hauteur.
+  Faites varier leurs hauteur grçace à l'API Animated
    
  * Exercice 2 : Navigation
   Implémenter une navigation entre plusieurs vues avec gestion de l'historique et l'implémentation
