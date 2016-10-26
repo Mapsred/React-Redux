@@ -14,7 +14,7 @@ de votre choix.
 Type de parcours d'écrans : 1 -> 2 -> 3 -> 1
 
 Exercice 3 : Client d'API
- -----------------------
+-----------------------
 Créer un client d'API permettant de gérer du cache de requête avec AsyncStorage (class ES6 utilisant fetch, API
 JCDecaux ou OpenData Paris). 
 Si l'utilisateur ne possède pas internet, utiliser le cache, sinon essayer de lancer la requête.
